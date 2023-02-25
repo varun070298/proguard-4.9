@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="examples/annotations/examples"/>
+	<classpathentry kind="src" path="examples/annotations/src"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="examples/annotations/lib/annotations.jar"/>
+	<classpathentry kind="lib" path="lib/proguard.jar"/>
+	<classpathentry kind="lib" path="lib/proguardgui.jar"/>
+	<classpathentry kind="lib" path="lib/retrace.jar"/>
+	<classpathentry kind="lib" path="lib/ant-1.7.0.jar"/>
+	<classpathentry kind="lib" path="lib/groovy-2.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/gradle-base-services-groovy-1.5.jar"/>
+	<classpathentry kind="lib" path="lib/gradle-base-services-1.5.jar"/>
+	<classpathentry kind="lib" path="lib/gradle-core-1.5.jar"/>
+	<classpathentry kind="lib" path="lib/kvem_mock.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
